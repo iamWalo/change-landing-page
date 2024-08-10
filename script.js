@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
     // side bar 
 
@@ -81,4 +82,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         }, 4000)
     }
+
 })
+
